@@ -17,10 +17,10 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 os.system('termux-setup-storage')
 os.system('clear')
-logo = '\n\n\x1b[1;92m\n   _____    _________  \n  /  _  \\   \\_   ___ \\ \n /  /_\\  \\  /    \\  \\/  \x1b[1;93m SPEEDI UPDATE 2.0.1"\x1b[1;92m\n/    |    \\ \\     \\____\n\\____|__  /  \\______  /\n        \\/          \\/ \n\x1b[1;97m----------------------------------------------\n   Author   : Sohaib MuGhaL\n   Github   : https://github.com/MRMUGHAL\n   Youtube  : AFTHZ By MUGHAL\n----------------------------------------------\n             \x1b[1;92mBranded[1;97m------------------------------------------------\nBE A GOOD PERSON BUT DONT WASTE TIME TO PROVE IT\n------------------------------------------------ '
+logo = '\n\n\x1b[1;92m\n   _____    _________  \nn x1b[1;93m MUGHAL4.1"\x1b[1;92m\n/    |  nn      n\x1b[1;97m----------------------------------------------\n   Author   : Sohaib MuGhaL\n   Github   : https://github.com/MRMUGHAL\n   Youtube  : AFTHZ By MUGHAL\n----------------------------------------------\n             \x1b[1;92mBranded[1;97m------------------------------------------------\nBE A GOOD PERSON BUT DONT WASTE TIME TO PROVE IT\n------------------------------------------------ '
 CorrectUsername = 'MUGHAL'
 loop = 'true'
-while loop == 'true':
+while loop == 'true'
     print logo
     print '\x1b[1;97m               FIRST STEP LOGIN'
     print '\x1b[1;97m'
